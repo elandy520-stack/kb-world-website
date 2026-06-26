@@ -710,6 +710,19 @@ p {
   padding: 24px;
 }
 
+.resource-panel span {
+  display: block;
+  padding: 12px 14px;
+  border-radius: 14px;
+  background: #ecf8fa;
+  color: #14515a;
+  font-weight: 900;
+}
+
+.section-actions {
+  margin-top: 22px;
+}
+
 .metric {
   display: flex;
   align-items: center;
